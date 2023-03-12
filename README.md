@@ -80,7 +80,7 @@ Burada almış olduğunuz RPC ile değiştirin ve ctrl + x ile kaydedin.
 
 
 ```
-nano docker-compose.yaml
+nano docker-compose.yml
 ```
 
 ![image](https://user-images.githubusercontent.com/101635385/224575903-f8e376ab-e7ff-42c9-bd11-3518a35e2092.png)
