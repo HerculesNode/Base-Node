@@ -68,7 +68,8 @@ docker-compose.yaml dosyasına giriş yapacağız ve buraya sadece ETH-Goerli RP
 isteyen burdan kayıt olup alabilir. Resimdeki gibi alacaksınız.
 https://blockpi.io/
 
-![image](https://user-images.githubusercontent.com/101635385/224577263-05a12817-0da0-4638-b91b-44916c3e2b7c.png)
+![image](https://user-images.githubusercontent.com/101635385/224577307-16b437e3-bbdb-443c-9b86-6e3953597750.png)
+
 
 
 <br><br>
