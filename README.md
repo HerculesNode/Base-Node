@@ -64,8 +64,12 @@ cd node
 
 #### 🟢 4. Compose dosyasını düzenleyelim
 
-docker-compose.yaml dosyasına giriş yapacağız ve buraya sadece ETH-Goerli RPC ekleyeceğiz bunu ben Blockpi kullanıyorum. isteyen burdan kayıt olup alabilir. 
+docker-compose.yaml dosyasına giriş yapacağız ve buraya sadece ETH-Goerli RPC ekleyeceğiz bunu ben Blockpi kullanıyorum. 
+isteyen burdan kayıt olup alabilir. Resimdeki gibi alacaksınız.
 https://blockpi.io/
+
+![image](https://user-images.githubusercontent.com/101635385/224577263-05a12817-0da0-4638-b91b-44916c3e2b7c.png)
+
 
 <br><br>
 Değiştireceğimiz yer : OP_NODE_L1_ETH_RPC=`https://ethereum-goerli-rpc.allthatnode.com`
