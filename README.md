@@ -64,7 +64,7 @@ cd node
 
 #### 🟢 4. Compose dosyasını düzenleyelim
 
-docker-compose.yaml dosyasına giriş yapacağız ve buraya sadece ETH-Goerli RPC ekleyeceğiz bunu ben Blockpi kullanıyorum. 
+docker-compose.yml dosyasına giriş yapacağız ve buraya sadece ETH-Goerli RPC ekleyeceğiz bunu ben Blockpi kullanıyorum. 
 isteyen burdan kayıt olup alabilir. Resimdeki gibi alacaksınız.
 https://blockpi.io/
 
