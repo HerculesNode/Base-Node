@@ -8,7 +8,7 @@
 
 ## 🟢 Ön bilgi
 
-Base Node için herhangi bir teşvik yoktur. İsteyen kurabilir Base bir Coinbase Markasıdır bu yüzden yapılacka her işlem önemli olduğunu düşünüyorum. <br>
+Base Node için herhangi bir teşvik yoktur isteyen kurabilir. Base bir Coinbase Markasıdır bu yüzden yapılacak her işlem önemli olduğunu düşünüyorum. <br>
 
 
 ### Linkler
