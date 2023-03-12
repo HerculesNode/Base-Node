@@ -98,6 +98,7 @@ işlemler bittikten sonra bu şekilde bir log göreceksiniz Senkronize oluyor . 
 
 
 <br>
+
 #### 🟢 Yararlı komutlar
 
 
